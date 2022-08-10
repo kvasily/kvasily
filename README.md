@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kelvin
-- 👀 I’m interested in science
-- 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate
+- 👋 Hi, I’m Vasily
+- 👀 I’m interested in cmputer science
+- 🌱 I’m currently learning data analysis
+- 💞️ I’m going to school for it
 - 📫 How to reach me you@showmehow.love
 
 <!---
