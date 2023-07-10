@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Vasily
-- 👀 I’m interested in cmputer science
-- 🌱 I’m currently learning data analysis
+- 🌱 I’m currently learning computer science
 - 💞️ I’m going to school for it
-- 📫 How to reach me you@showmehow.love
+- 📫 How to reach me bkeytiyev@gmail.com
 
 <!---
 kvasily/kvasily is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
